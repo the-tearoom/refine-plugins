@@ -1,0 +1,13 @@
+{
+  "name": "refine",
+  "version": "0.1.0",
+  "description": "Find roles, follow companies, track applications, and work through recruiter email with Refine.",
+  "author": {
+    "name": "Refine",
+    "url": "https://getrefine.co"
+  },
+  "homepage": "https://getrefine.co/mcp",
+  "repository": "https://github.com/the-tearoom/refine-plugins",
+  "license": "MIT",
+  "keywords": ["job-search", "careers", "applications", "mcp"]
+}

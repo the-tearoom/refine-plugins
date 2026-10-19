@@ -1,0 +1,37 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "refine",
+  "version": "0.1.0",
+  "description": "Find roles, follow companies, track applications, and work through recruiter email with Refine.",
+  "author": {
+    "name": "Refine",
+    "url": "https://getrefine.co"
+  },
+  "homepage": "https://getrefine.co/mcp",
+  "repository": "https://github.com/the-tearoom/refine-plugins",
+  "license": "MIT",
+  "keywords": ["job-search", "careers", "applications", "mcp"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Refine",
+        "shortDescription": "Your job search, with your assistant.",
+        "longDescription": "Search company openings, follow employers, keep your application board up to date, and review recruiter conversations. Refine keeps your job search connected across sessions and assistants.",
+        "developerName": "Refine",
+        "category": "Productivity",
+        "capabilities": ["Search openings", "Track applications", "Review recruiter email"],
+        "websiteURL": "https://getrefine.co",
+        "supportURL": "https://github.com/the-tearoom/refine-plugins/issues",
+        "privacyPolicyURL": "https://getrefine.co/legal/privacy",
+        "termsOfServiceURL": "https://getrefine.co/legal/terms",
+        "composerIcon": "./assets/refine.png",
+        "logo": "./assets/refine.png",
+        "defaultPrompt": [
+          "Find roles that fit what I'm looking for.",
+          "What should I focus on in my job search today?",
+          "Help me work through my recruiter email."
+        ]
+      }
+    }
+  }
+}

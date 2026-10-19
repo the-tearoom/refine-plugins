@@ -1,0 +1,9 @@
+{
+  "name": "refine",
+  "version": "0.1.0",
+  "mcpServers": {
+    "refine": {
+      "httpUrl": "https://mcp.getrefine.co/mcp"
+    }
+  }
+}

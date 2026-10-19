@@ -1,0 +1,15 @@
+{
+  "name": "refine-plugins",
+  "description": "Job-search workflows for Refine, connected to your AI assistant.",
+  "owner": {
+    "name": "Refine"
+  },
+  "plugins": [
+    {
+      "name": "refine",
+      "source": "./",
+      "description": "Your job search, with your assistant.",
+      "category": "productivity"
+    }
+  ]
+}

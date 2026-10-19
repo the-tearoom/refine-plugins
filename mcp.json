@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "refine": {
+      "type": "streamable-http",
+      "url": "https://mcp.getrefine.co/mcp"
+    }
+  }
+}

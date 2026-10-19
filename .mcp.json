@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "refine": {
+      "type": "http",
+      "url": "https://mcp.getrefine.co/mcp"
+    }
+  }
+}
