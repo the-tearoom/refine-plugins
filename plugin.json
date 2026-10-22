@@ -15,7 +15,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Refine",
-        "shortDescription": "Your job search, with your assistant.",
+        "shortDescription": "Your job search, organized",
         "longDescription": "Search company openings, follow employers, keep your application board up to date, and review recruiter conversations. Refine keeps your job search connected across sessions and assistants.",
         "developerName": "Refine",
         "category": "Productivity",
