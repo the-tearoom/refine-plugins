@@ -9,5 +9,7 @@
   "homepage": "https://getrefine.co/mcp",
   "repository": "https://github.com/the-tearoom/refine-plugins",
   "license": "MIT",
-  "keywords": ["job-search", "careers", "applications", "mcp"]
+  "keywords": ["job-search", "careers", "applications", "mcp"],
+  "icon": "./assets/refine.png",
+  "privacyPolicyUrl": "https://getrefine.co/legal/privacy"
 }
